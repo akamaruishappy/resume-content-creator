@@ -1,0 +1,50 @@
+.my-bg{
+
+  background-color: #D7E0FA;
+}
+.mybg02{
+background-color: #9DB8FA; }
+
+.my-text {
+  font-family: 'Gayathri', sans-serif;
+  
+text-transform: uppercase;
+  font-size: 70px;
+  line-height: 70px;
+}
+.myfont{
+  font-size: 30px;
+  font-family: 'Mandali', sans-serif;
+  
+}
+
+
+h2
+{font-family: 'Gayathri', sans-serif;
+color: #0D094B;
+   font-size: 42px;
+  line-height: 35px;
+}
+.my-mtext
+{font-family: 'Gayathri', sans-serif;
+color: #0D094B;
+   font-size: 42px;
+  line-height: 35px;
+}
+
+
+
+
+p
+{
+font-family: 'Mandali', sans-serif;
+ font-size: 25px;
+  line-height: 25px;
+ color: #4F24A5;
+}
+.my-bgcontainer{background-color: lightblue;}
+
+h5{font-family: 'Mandali', sans-serif;
+ font-size: 25px;
+  line-height: 25px;
+}
